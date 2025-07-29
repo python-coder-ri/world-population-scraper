@@ -41,15 +41,13 @@ pip install selenium webdriver-manager pandas openpyxl
 
 python world_population_scraper.py
 
-## Screenshot
-
-![Population Metrics from Worldometers]
-(Population%20Metrics%20from%20Worldometers.info.png)
-
-
 ## Output
 
 This will open the website, scrape the data, and save an Excel file named like:
 worldmeters_2025-07-23.xlsx
 
+
+## Screenshot
+
+![Population Metrics from Worldometers](Population-Metrics-from-Worldometers.info.png)
 
