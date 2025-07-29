@@ -41,6 +41,11 @@ pip install selenium webdriver-manager pandas openpyxl
 
 python world_population_scraper.py
 
+## Screenshot
+
+![Population Metrics from Worldometers]
+(Population%20Metrics%20from%20Worldometers.info.png)
+
 
 ## Output
 
